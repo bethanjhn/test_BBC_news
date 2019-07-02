@@ -27,7 +27,6 @@ import scraperwiki
 html = scraperwiki.scrape('https://bbc.co.uk')
 sausages = html
 print sausages
-print html
 
 # -----------------------------------------------------------------------------
 # In the next tutorial, you'll learn how to extract the useful parts
